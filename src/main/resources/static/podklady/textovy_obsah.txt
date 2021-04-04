@@ -1,0 +1,60 @@
+<h1><strong>Kafe Koláč</strong><h1>
+
+<!-- Sekce menu kulatý boxy-->
+AKCE CATERING KAVÁRNA OBCHOD
+
+<!-- Sekce pro koho -->
+<h2>Pro koho<h2/>
+Pro každého. Máš rád kávu? Ujíždíš si na domácích koláčích? Chceš potkat skvělé lidi a krásná místa v Praze?
+
+Tak přijď mezi nás a <em> potkej, poznej, ochutnej </em> 
+
+<!-- Sekce Kdo jsme -->
+<h2>Kdo jsme</h2>
+
+Jsme Kafe koláč! Majda a Kryštof rádi si užíváme dobré jídlo. Ať už je to jídlem, místem nebo lidmi ke kterými jej jíme. 
+Kryštof začal ochutnávat presa, espressa a filtry v pražských kavárnách kolem roku 2015 od roku 2016 se aktivně zajímá o výběrovou kávu, její přípravu a proces pražení. Stále ho baví ochutnávat svět kolem sebe.
+Majda peče výborné koláče, moc se s tím nemaže, ale recepty má skvělé.
+
+Ti dva se skvěle doplňují asi tak jako šálek dobře připravené kávy s láskou upečeným kusem koláče. 
+
+<h2>Akce</h2>
+<!-- Sekce Akce -->
+Pořádáme akce kde nás můžeš potkat se všemi kdo zrovna přijdou, ochutnat čerstvě namletou a připravenou výběrovou kávu s koláčem. Tak neváhej a <em>přijď!</em>
+
+
+8/4/2021 7:00-8:45 Snídaně na Karlově mostě; kopřivový čaj + sázená vejce na másle na pořádném krajíci chleba; káva: výběrová single origin káva El Salvador; pražírna: Šťatné kafe (praženo ve first crack); příprava: moccamaster
+
+22/4/2021 17:00-19:30 Pod rozkvetlými mandloňi na Petříně; lipový čaj + tvarohovo-makový kynutý koláč; káva: výběrová single origin káva Brazil ; pražírna Drop coffee roasters (SWE); přírava: moccamaster 
+
+6/5/2021 17:00-19:30 Lásky čas; růžový čaj + linecký křehký koláč; káva: výběrová single origin káva ethiophie; Pražírna: FORMAT COFFEE; příprava: moccamaster
+
+
+<h2>Fotogalerie</h2>
+<!-- Sekce Fotogalerie -->
+
+Krásná místa, skvělí lidé, výborné jídlo. To musíš vyfotit nebo zažít! Protože si to ještě nezažil, tak tady je pár fotek:
+Foto1
+Foto2
+Foto3
+Foto4
+Foto5
+Foto6
+Foto7
+Foto8
+Foto9
+
+<h2>Kontakt</h2
+<!-- Sekce Kontakt -->
+
+KafeKoláč s.r.o.
+IČ: 0429 0348
+
+nemůžeš nás najít? tel.: 721 158 627
+další akce a aktuality na fb: @KafeKoláč
+fotky a recepty na ig: @KafeKoláč
+dotazy a spolupráce piš na: mail@kafekolac.com
+
+<h3>Footer</h3>
+<!-- Sekce Footer -->
+© KafeKoláč est. 2021
